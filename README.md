@@ -1,0 +1,2 @@
+# ResolverConflict
+Instantaneous Anomaly Intercept Director featuring IntelligentConflictDetection capabilities implementing modern PolicyBasedResolution patterns providing enterprise-grade ResolverConflict solutions
